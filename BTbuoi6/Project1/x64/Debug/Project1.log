@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BaiThapHN.cpp
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(5,12): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(5,12): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(5,12): warning C4566: character represented by universal-character-name '\u0129' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(5,12): warning C4566: character represented by universal-character-name '\u1EEB' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(5,12): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(28,12): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(28,12): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(28,12): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(28,12): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(28,12): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(28,12): warning C4566: character represented by universal-character-name '\u0129' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\Project1\BaiThapHN.cpp(29,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT_Buoi6\BTbuoi6\x64\Debug\BTBuoi6.exe
