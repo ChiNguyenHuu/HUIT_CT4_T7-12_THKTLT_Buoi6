@@ -18,5 +18,8 @@
     <ClCompile Include="BaiThapHN.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Chuoi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
